@@ -22,7 +22,7 @@
     justify-content: center;
 }
 
-.dsmovie-form-card-image {
+.dsmovie-movie-card-image {
     width: 100%;
     border-radius: 8px 8px 0 0;
 }
@@ -36,7 +36,7 @@
     border-radius: 0 0 8px 8px;
 }
 
-.dsmovie-form-card-bottom-container h3 {
+.dsmovie-card-bottom-container h3 {
     color: #4A4A4A;
     text-align: center;
     font-size: 14px;
